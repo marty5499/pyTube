@@ -20,7 +20,7 @@ class YoutubeLoader:
         self.url_or_filepath = url_or_filepath
         self.video_filename = ''
         self.video_spend_time = 0
-        self.subTitles_spend_time = 0
+        self.subtitles_spend_time = 0
         self.merge_spend_time = 0
         self.model = model
         self.loadVideo()
