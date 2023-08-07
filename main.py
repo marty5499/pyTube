@@ -10,7 +10,7 @@ dl = YoutubeLoader(URL, model='large')
 dl.saveVideo(OUTPUT_DIR)
 """
 
-dl = YoutubeLoader("./video/new/news.mp4", model='large')
+dl = YoutubeLoader("./video/new/news.mp4", model='large-v2')
 dl.loadVideo()
 dl.saveSubtitles(OUTPUT_DIR)
 dl.merge(OUTPUT_DIR)
