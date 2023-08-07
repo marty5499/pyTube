@@ -3,7 +3,6 @@ astroid==2.15.0
 astunparse==1.6.3
 autopep8==1.6.0
 Brotli==1.0.9
-certifi @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_5d968ni_yn/croot/certifi_1671487774636/work/certifi
 chardet==5.1.0
 charset-normalizer==3.1.0
 decorator==5.1.1
